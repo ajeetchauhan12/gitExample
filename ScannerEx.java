@@ -6,6 +6,7 @@ public class ScannerEx{
 System.out.println("which is ur branch");
 String st=sc.next();
 System.out.println("My branch is : "+st);
+		System.out.println("heelo");
 	}
 
 
